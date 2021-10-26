@@ -190,11 +190,11 @@ body {
     display: none;
 }
 .js-accordion dt::after {
-    content: '⮧';
+    content: '⮟';
     margin-left: 10px;
 }
 .js-accordion dt.ativo::after {
-    content: '⮥';
+    content: '⮝';
     margin-left: 10px;
 }
 .js-accordion dd.ativo {
